@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ljedmitry1
-- 👀 I’m interested in programming for Android, reading fantastic books, mounting video
+- 👀 I’m interested in programming for Android, reading fantastic and classic books, mounting video
 - 🌱 I’m currently learning to programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
